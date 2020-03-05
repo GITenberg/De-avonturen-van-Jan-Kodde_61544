@@ -1,5 +1,5 @@
 _repo: De-avonturen-van-Jan-Kodde_61544
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Rinke, Jan
@@ -17,12 +17,17 @@ contributor:
     deathdate: 1939
     gutenberg_agent_id: '36628'
     url: http://www.gutenberg.org/2009/agents/36628
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Poldermans, Daniël Adrianus
     gutenberg_agent_id: '51481'
     url: http://www.gutenberg.org/2009/agents/51481
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61544#De-avonturen-van-Jan-Kodde
 gutenberg_issued: '2020-03-01'
 gutenberg_type: Text
 identifiers:
